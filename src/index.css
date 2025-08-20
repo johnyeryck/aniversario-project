@@ -1,5 +1,1 @@
 @import 'tailwindcss';
-.container {
-  background-image: url('./assets/Convite\ Aniversário\ Balão\ Dourado\ Elegante\ Preto\ \(1\).png'); /* Caminho para a sua imagem */
-    @apply bg-cover bg-center bg-no-repeat;
-}

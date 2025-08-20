@@ -34,8 +34,17 @@ export default function Layout() {
       </Swiper>
 
       {/* Convite */}
-      <article className="p-6 rounded-xl shadow-md text-center mt-10">
-        <div className="text-center flex justify-evenly">
+      <article className="rounded-xl shadow-md text-center mt-10">
+        <p className=' text-white rounded-lg bg-gradient-to-t from-black to-transparent '>No dia 21 de outubro de 1995, um sábado, às 17h, nascia Matheus Souza Brito, na Casa de Saúde Dr. José Evóide de Moura, em Afogados da Ingazeira-PE. Filho de Elpídio Grigório de Brito e Lucinalva Zezinho de Souza Brito, neto, por parte de pai, de Antonio Firmino Mendes e Maria de Lourdes de Brito (in memoriam), e, por parte de mãe, de João Zezinho de Souza (in memoriam) e Rita Luciano de Lima. Matheus é o irmão caçula de Diêgo de Souza Brito.
+
+Enfim... 30! Só gratidão!
+
+Sabe aquela sensação de “piscou, passou”? Aquela idade que sempre pareceu tão distante finalmente chegou. Hoje é dia de refletir — encantado com o que já foi e esperançoso com o que ainda está por vir.
+
+Olho para quem me tornei e sinto apenas orgulho e alegria pelas amizades que construí e pelos aprendizados acumulados ao longo desses anos. Aprendi a aceitar quem sou e a acolher o que a vida tem a oferecer.
+
+São 30 anos de gratidão, com a certeza de que o melhor ainda está por vir!</p>
+        <div className="text-center flex justify-evenly mt-4">
           <div className="flex flex-col">
             <h1 className="font-bold text-white mb-2">
               01.11
