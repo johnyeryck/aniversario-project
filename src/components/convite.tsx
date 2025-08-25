@@ -1,6 +1,6 @@
   export default function Confirmacao() {
     return (
-      <div className=" flex justify-center   bg-black ">
+      <div className=" flex justify-center  pt-30 bg-black ">
               <iframe
           src="https://docs.google.com/forms/d/e/1FAIpQLSf_-auh8O9K9RCw0HmSJcppUGZ01aItBQipc7YCyKxu304ZBQ/viewform?embedded=true"
           width="640"
