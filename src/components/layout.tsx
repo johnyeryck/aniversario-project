@@ -134,7 +134,7 @@ export default function Layout() {
 
         {/* Botão de confirmação */}
         <Link to={"/confirmar"}>
-            <button className="bg-blue-700 hover:bg-blue-800 text-black font-bold px-8 py-3 rounded-xl transition-all duration-300 mt-4 mb-6">
+            <button className="bg-blue-700 hover:bg-blue-800 text-white font-bold px-8 py-3 rounded-xl transition-all duration-300 mt-4 mb-6">
               Confirmar Presença
             </button>
         </Link>
